@@ -1,2 +1,3 @@
 # flaskr
-Flask/SQL learning repository
+Flask/SQL learning repository and Flask review
+
